@@ -1,1 +1,2 @@
 # Internship-Project
+Online Pizza Shop using MERN stack, MongoDB, Express.js, React.js and the Rest API involves creating and maintaining websites, web applications, and other digital products. It includes designing the user interface,coding the functionality and the integrating various components such as databases, APIs, and web servers.The Common languages and technologies used in web development include HTML, CSS, JavaScript, NodeJS and MongoDB
